@@ -21,6 +21,10 @@ public class ClassA {
 	{
 		System.out.println("Added");
 	}
+	public void edit()
+	{
+		System.out.println("EditMethod");
+	}
 	public static void main(String[] args) 
 	{
 	
