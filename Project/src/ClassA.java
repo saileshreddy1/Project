@@ -16,6 +16,11 @@ public class ClassA {
 	{
 		System.out.println("Method3");
 	}
+	
+	public void add()
+	{
+		System.out.println("Added");
+	}
 	public static void main(String[] args) 
 	{
 	
